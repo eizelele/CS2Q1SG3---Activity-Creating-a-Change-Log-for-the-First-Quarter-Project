@@ -16,6 +16,7 @@ Chore & Repair Reminders – assign and track household responsibilities.
 5. Users Receive Notifications/Updates → complete tasks → progress tracked.
 
 ## Output
+START
 
  DISPLAY Main Menu:
         1. Manage Calendar
